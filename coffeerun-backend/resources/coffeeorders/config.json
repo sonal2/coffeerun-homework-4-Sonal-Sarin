@@ -1,0 +1,37 @@
+{
+	"type": "Collection",
+	"properties": {
+		"coffee": {
+			"name": "coffee",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "coffee",
+			"order": 0
+		},
+		"flavor": {
+			"name": "flavor",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "flavor",
+			"order": 1
+		},
+		"tall": {
+			"name": "tall",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "tall",
+			"order": 2
+		},
+		"strength": {
+			"name": "strength",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "strength",
+			"order": 3
+		}
+	}
+}
